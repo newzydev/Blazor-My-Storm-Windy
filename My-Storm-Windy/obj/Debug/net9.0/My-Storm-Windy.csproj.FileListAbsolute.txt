@@ -16,7 +16,6 @@ C:\My Project\My-Storm-Windy\My-Storm-Windy\obj\Debug\net9.0\scopedcss\Component
 C:\My Project\My-Storm-Windy\My-Storm-Windy\obj\Debug\net9.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
 C:\My Project\My-Storm-Windy\My-Storm-Windy\obj\Debug\net9.0\scopedcss\bundle\My-Storm-Windy.styles.css
 C:\My Project\My-Storm-Windy\My-Storm-Windy\obj\Debug\net9.0\scopedcss\projectbundle\My-Storm-Windy.bundle.scp.css
-C:\My Project\My-Storm-Windy\My-Storm-Windy\obj\Debug\net9.0\compressed\pyitiyxp76-khy4lop6wu.gz
 C:\My Project\My-Storm-Windy\My-Storm-Windy\obj\Debug\net9.0\compressed\lg2mq502dv-bqjiyaj88i.gz
 C:\My Project\My-Storm-Windy\My-Storm-Windy\obj\Debug\net9.0\compressed\ycdv5voblb-c2jlpeoesf.gz
 C:\My Project\My-Storm-Windy\My-Storm-Windy\obj\Debug\net9.0\compressed\kbjrpoi9yq-erw9l3u2r3.gz
@@ -78,3 +77,5 @@ C:\My Project\My-Storm-Windy\My-Storm-Windy\obj\Debug\net9.0\refint\My-Storm-Win
 C:\My Project\My-Storm-Windy\My-Storm-Windy\obj\Debug\net9.0\My-Storm-Windy.pdb
 C:\My Project\My-Storm-Windy\My-Storm-Windy\obj\Debug\net9.0\My-Storm-Windy.genruntimeconfig.cache
 C:\My Project\My-Storm-Windy\My-Storm-Windy\obj\Debug\net9.0\ref\My-Storm-Windy.dll
+C:\My Project\My-Storm-Windy\My-Storm-Windy\obj\Debug\net9.0\My-Storm-Windy.sourcelink.json
+C:\My Project\My-Storm-Windy\My-Storm-Windy\obj\Debug\net9.0\compressed\pyitiyxp76-ukxxns0scj.gz

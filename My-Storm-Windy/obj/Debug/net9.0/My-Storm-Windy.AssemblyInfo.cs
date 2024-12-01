@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("My-Storm-Windy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc7b008d1db8c259863381e8310b7e1f30c37e4f")]
 [assembly: System.Reflection.AssemblyProductAttribute("My-Storm-Windy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("My-Storm-Windy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

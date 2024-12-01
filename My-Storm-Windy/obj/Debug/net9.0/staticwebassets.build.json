@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YWAEoXQ8QtcfZKfehPXLjMntxhGxTZ8R0Qd5F1/V1DY=",
+  "Hash": "AHiV3pMoJcCGsRJmNQGRefUHeyPukGdoSBmnhjmtCWg=",
   "Source": "My-Storm-Windy",
   "BasePath": "_content/My-Storm-Windy",
   "Mode": "Default",
@@ -773,12 +773,12 @@
       "OriginalItemSpec": "C:\\My Project\\My-Storm-Windy\\My-Storm-Windy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\My Project\\My-Storm-Windy\\My-Storm-Windy\\obj\\Debug\\net9.0\\compressed\\pyitiyxp76-khy4lop6wu.gz",
+      "Identity": "C:\\My Project\\My-Storm-Windy\\My-Storm-Windy\\obj\\Debug\\net9.0\\compressed\\pyitiyxp76-ukxxns0scj.gz",
       "SourceId": "My-Storm-Windy",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\My Project\\My-Storm-Windy\\My-Storm-Windy\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/My-Storm-Windy",
-      "RelativePath": "app#[.{fingerprint=khy4lop6wu}]?.css.gz",
+      "RelativePath": "app#[.{fingerprint=ukxxns0scj}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -787,8 +787,8 @@
       "RelatedAsset": "C:\\My Project\\My-Storm-Windy\\My-Storm-Windy\\wwwroot\\app.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "shxmjhlez9",
-      "Integrity": "8AW5z0bh7/mw0xH4LdDSG9tn9KuE8navaRG23Xkbe7o=",
+      "Fingerprint": "e0283y8p1g",
+      "Integrity": "Lid6dXC/ZDdCEMQVwgEfGvy6e+s8JiUijaknUCtbjvE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\My Project\\My-Storm-Windy\\My-Storm-Windy\\wwwroot\\app.css"
@@ -1060,8 +1060,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "khy4lop6wu",
-      "Integrity": "aNPcLFwdCCGS2v1guSR64Htd4Ly5uclT7taAptnMPbs=",
+      "Fingerprint": "ukxxns0scj",
+      "Integrity": "wnBZGBIuSD+sqUAhcJ1xY0E/8xAodJwieHo0wKTRE2I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\app.css"
@@ -2015,12 +2015,12 @@
   "Endpoints": [
     {
       "Route": "app.css",
-      "AssetFile": "C:\\My Project\\My-Storm-Windy\\My-Storm-Windy\\obj\\Debug\\net9.0\\compressed\\pyitiyxp76-khy4lop6wu.gz",
+      "AssetFile": "C:\\My Project\\My-Storm-Windy\\My-Storm-Windy\\obj\\Debug\\net9.0\\compressed\\pyitiyxp76-ukxxns0scj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000653167864"
+          "Quality": "0.000588581519"
         }
       ],
       "ResponseHeaders": [
@@ -2030,15 +2030,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1530"
+          "Value": "1698"
         },
         {
           "Name": "ETag",
-          "Value": "\"8AW5z0bh7/mw0xH4LdDSG9tn9KuE8navaRG23Xkbe7o=\""
+          "Value": "\"Lid6dXC/ZDdCEMQVwgEfGvy6e+s8JiUijaknUCtbjvE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 08:03:25 GMT"
+          "Value": "Sun, 01 Dec 2024 08:17:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2058,13 +2058,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"aNPcLFwdCCGS2v1guSR64Htd4Ly5uclT7taAptnMPbs=\""
+          "Value": "W/\"wnBZGBIuSD+sqUAhcJ1xY0E/8xAodJwieHo0wKTRE2I=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-aNPcLFwdCCGS2v1guSR64Htd4Ly5uclT7taAptnMPbs="
+          "Value": "sha256-wnBZGBIuSD+sqUAhcJ1xY0E/8xAodJwieHo0wKTRE2I="
         }
       ]
     },
@@ -2079,7 +2079,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2900"
+          "Value": "3321"
         },
         {
           "Name": "Content-Type",
@@ -2087,11 +2087,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aNPcLFwdCCGS2v1guSR64Htd4Ly5uclT7taAptnMPbs=\""
+          "Value": "\"wnBZGBIuSD+sqUAhcJ1xY0E/8xAodJwieHo0wKTRE2I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 08:03:25 GMT"
+          "Value": "Sun, 01 Dec 2024 08:17:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2101,13 +2101,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-aNPcLFwdCCGS2v1guSR64Htd4Ly5uclT7taAptnMPbs="
+          "Value": "sha256-wnBZGBIuSD+sqUAhcJ1xY0E/8xAodJwieHo0wKTRE2I="
         }
       ]
     },
     {
       "Route": "app.css.gz",
-      "AssetFile": "C:\\My Project\\My-Storm-Windy\\My-Storm-Windy\\obj\\Debug\\net9.0\\compressed\\pyitiyxp76-khy4lop6wu.gz",
+      "AssetFile": "C:\\My Project\\My-Storm-Windy\\My-Storm-Windy\\obj\\Debug\\net9.0\\compressed\\pyitiyxp76-ukxxns0scj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2116,7 +2116,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1530"
+          "Value": "1698"
         },
         {
           "Name": "Content-Type",
@@ -2124,11 +2124,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8AW5z0bh7/mw0xH4LdDSG9tn9KuE8navaRG23Xkbe7o=\""
+          "Value": "\"Lid6dXC/ZDdCEMQVwgEfGvy6e+s8JiUijaknUCtbjvE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 08:03:25 GMT"
+          "Value": "Sun, 01 Dec 2024 08:17:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2146,18 +2146,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8AW5z0bh7/mw0xH4LdDSG9tn9KuE8navaRG23Xkbe7o="
+          "Value": "sha256-Lid6dXC/ZDdCEMQVwgEfGvy6e+s8JiUijaknUCtbjvE="
         }
       ]
     },
     {
-      "Route": "app.khy4lop6wu.css",
-      "AssetFile": "C:\\My Project\\My-Storm-Windy\\My-Storm-Windy\\obj\\Debug\\net9.0\\compressed\\pyitiyxp76-khy4lop6wu.gz",
+      "Route": "app.ukxxns0scj.css",
+      "AssetFile": "C:\\My Project\\My-Storm-Windy\\My-Storm-Windy\\obj\\Debug\\net9.0\\compressed\\pyitiyxp76-ukxxns0scj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000653167864"
+          "Quality": "0.000588581519"
         }
       ],
       "ResponseHeaders": [
@@ -2167,15 +2167,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1530"
+          "Value": "1698"
         },
         {
           "Name": "ETag",
-          "Value": "\"8AW5z0bh7/mw0xH4LdDSG9tn9KuE8navaRG23Xkbe7o=\""
+          "Value": "\"Lid6dXC/ZDdCEMQVwgEfGvy6e+s8JiUijaknUCtbjvE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 08:03:25 GMT"
+          "Value": "Sun, 01 Dec 2024 08:17:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2195,13 +2195,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"aNPcLFwdCCGS2v1guSR64Htd4Ly5uclT7taAptnMPbs=\""
+          "Value": "W/\"wnBZGBIuSD+sqUAhcJ1xY0E/8xAodJwieHo0wKTRE2I=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "khy4lop6wu"
+          "Value": "ukxxns0scj"
         },
         {
           "Name": "label",
@@ -2209,12 +2209,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-aNPcLFwdCCGS2v1guSR64Htd4Ly5uclT7taAptnMPbs="
+          "Value": "sha256-wnBZGBIuSD+sqUAhcJ1xY0E/8xAodJwieHo0wKTRE2I="
         }
       ]
     },
     {
-      "Route": "app.khy4lop6wu.css",
+      "Route": "app.ukxxns0scj.css",
       "AssetFile": "C:\\My Project\\My-Storm-Windy\\My-Storm-Windy\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2224,7 +2224,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2900"
+          "Value": "3321"
         },
         {
           "Name": "Content-Type",
@@ -2232,11 +2232,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aNPcLFwdCCGS2v1guSR64Htd4Ly5uclT7taAptnMPbs=\""
+          "Value": "\"wnBZGBIuSD+sqUAhcJ1xY0E/8xAodJwieHo0wKTRE2I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 08:03:25 GMT"
+          "Value": "Sun, 01 Dec 2024 08:17:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2246,7 +2246,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "khy4lop6wu"
+          "Value": "ukxxns0scj"
         },
         {
           "Name": "label",
@@ -2254,13 +2254,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-aNPcLFwdCCGS2v1guSR64Htd4Ly5uclT7taAptnMPbs="
+          "Value": "sha256-wnBZGBIuSD+sqUAhcJ1xY0E/8xAodJwieHo0wKTRE2I="
         }
       ]
     },
     {
-      "Route": "app.khy4lop6wu.css.gz",
-      "AssetFile": "C:\\My Project\\My-Storm-Windy\\My-Storm-Windy\\obj\\Debug\\net9.0\\compressed\\pyitiyxp76-khy4lop6wu.gz",
+      "Route": "app.ukxxns0scj.css.gz",
+      "AssetFile": "C:\\My Project\\My-Storm-Windy\\My-Storm-Windy\\obj\\Debug\\net9.0\\compressed\\pyitiyxp76-ukxxns0scj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2269,7 +2269,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1530"
+          "Value": "1698"
         },
         {
           "Name": "Content-Type",
@@ -2277,11 +2277,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8AW5z0bh7/mw0xH4LdDSG9tn9KuE8navaRG23Xkbe7o=\""
+          "Value": "\"Lid6dXC/ZDdCEMQVwgEfGvy6e+s8JiUijaknUCtbjvE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 08:03:25 GMT"
+          "Value": "Sun, 01 Dec 2024 08:17:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2299,7 +2299,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "khy4lop6wu"
+          "Value": "ukxxns0scj"
         },
         {
           "Name": "label",
@@ -2307,7 +2307,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-8AW5z0bh7/mw0xH4LdDSG9tn9KuE8navaRG23Xkbe7o="
+          "Value": "sha256-Lid6dXC/ZDdCEMQVwgEfGvy6e+s8JiUijaknUCtbjvE="
         }
       ]
     },
