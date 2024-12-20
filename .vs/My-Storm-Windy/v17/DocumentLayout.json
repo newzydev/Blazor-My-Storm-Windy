@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\My Project\\My-Storm-Windy\\",
+  "WorkspaceRootPath": "C:\\Users\\sakda\\Desktop\\New folder\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63D60094-DFEA-4961-B147-10FCB9682F21}|My-Storm-Windy\\My-Storm-Windy.csproj|c:\\my project\\my-storm-windy\\my-storm-windy\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{63D60094-DFEA-4961-B147-10FCB9682F21}|My-Storm-Windy\\My-Storm-Windy.csproj|c:\\users\\sakda\\desktop\\new folder\\my-storm-windy\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{63D60094-DFEA-4961-B147-10FCB9682F21}|My-Storm-Windy\\My-Storm-Windy.csproj|solutionrelative:my-storm-windy\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63D60094-DFEA-4961-B147-10FCB9682F21}|My-Storm-Windy\\My-Storm-Windy.csproj|c:\\my project\\my-storm-windy\\my-storm-windy\\components\\pages\\temperature.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{63D60094-DFEA-4961-B147-10FCB9682F21}|My-Storm-Windy\\My-Storm-Windy.csproj|c:\\users\\sakda\\desktop\\new folder\\my-storm-windy\\components\\pages\\temperature.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{63D60094-DFEA-4961-B147-10FCB9682F21}|My-Storm-Windy\\My-Storm-Windy.csproj|solutionrelative:my-storm-windy\\components\\pages\\temperature.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63D60094-DFEA-4961-B147-10FCB9682F21}|My-Storm-Windy\\My-Storm-Windy.csproj|c:\\my project\\my-storm-windy\\my-storm-windy\\components\\pages\\rain.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{63D60094-DFEA-4961-B147-10FCB9682F21}|My-Storm-Windy\\My-Storm-Windy.csproj|c:\\users\\sakda\\desktop\\new folder\\my-storm-windy\\components\\pages\\rain.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{63D60094-DFEA-4961-B147-10FCB9682F21}|My-Storm-Windy\\My-Storm-Windy.csproj|solutionrelative:my-storm-windy\\components\\pages\\rain.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63D60094-DFEA-4961-B147-10FCB9682F21}|My-Storm-Windy\\My-Storm-Windy.csproj|c:\\my project\\my-storm-windy\\my-storm-windy\\components\\pages\\wind.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{63D60094-DFEA-4961-B147-10FCB9682F21}|My-Storm-Windy\\My-Storm-Windy.csproj|c:\\users\\sakda\\desktop\\new folder\\my-storm-windy\\components\\pages\\wind.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{63D60094-DFEA-4961-B147-10FCB9682F21}|My-Storm-Windy\\My-Storm-Windy.csproj|solutionrelative:my-storm-windy\\components\\pages\\wind.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63D60094-DFEA-4961-B147-10FCB9682F21}|My-Storm-Windy\\My-Storm-Windy.csproj|c:\\my project\\my-storm-windy\\my-storm-windy\\components\\pages\\satellite.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{63D60094-DFEA-4961-B147-10FCB9682F21}|My-Storm-Windy\\My-Storm-Windy.csproj|c:\\users\\sakda\\desktop\\new folder\\my-storm-windy\\components\\pages\\satellite.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{63D60094-DFEA-4961-B147-10FCB9682F21}|My-Storm-Windy\\My-Storm-Windy.csproj|solutionrelative:my-storm-windy\\components\\pages\\satellite.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63D60094-DFEA-4961-B147-10FCB9682F21}|My-Storm-Windy\\My-Storm-Windy.csproj|c:\\my project\\my-storm-windy\\my-storm-windy\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{63D60094-DFEA-4961-B147-10FCB9682F21}|My-Storm-Windy\\My-Storm-Windy.csproj|c:\\users\\sakda\\desktop\\new folder\\my-storm-windy\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{63D60094-DFEA-4961-B147-10FCB9682F21}|My-Storm-Windy\\My-Storm-Windy.csproj|solutionrelative:my-storm-windy\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63D60094-DFEA-4961-B147-10FCB9682F21}|My-Storm-Windy\\My-Storm-Windy.csproj|c:\\my project\\my-storm-windy\\my-storm-windy\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{63D60094-DFEA-4961-B147-10FCB9682F21}|My-Storm-Windy\\My-Storm-Windy.csproj|c:\\users\\sakda\\desktop\\new folder\\my-storm-windy\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{63D60094-DFEA-4961-B147-10FCB9682F21}|My-Storm-Windy\\My-Storm-Windy.csproj|solutionrelative:my-storm-windy\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -38,82 +38,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:429937245:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Temperature.razor",
-              "DocumentMoniker": "C:\\My Project\\My-Storm-Windy\\My-Storm-Windy\\Components\\Pages\\Temperature.razor",
+              "DocumentMoniker": "C:\\Users\\sakda\\Desktop\\New folder\\My-Storm-Windy\\Components\\Pages\\Temperature.razor",
               "RelativeDocumentMoniker": "My-Storm-Windy\\Components\\Pages\\Temperature.razor",
-              "ToolTip": "C:\\My Project\\My-Storm-Windy\\My-Storm-Windy\\Components\\Pages\\Temperature.razor",
+              "ToolTip": "C:\\Users\\sakda\\Desktop\\New folder\\My-Storm-Windy\\Components\\Pages\\Temperature.razor",
               "RelativeToolTip": "My-Storm-Windy\\Components\\Pages\\Temperature.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T08:47:53.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T08:47:53.692Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Rain.razor",
-              "DocumentMoniker": "C:\\My Project\\My-Storm-Windy\\My-Storm-Windy\\Components\\Pages\\Rain.razor",
+              "DocumentMoniker": "C:\\Users\\sakda\\Desktop\\New folder\\My-Storm-Windy\\Components\\Pages\\Rain.razor",
               "RelativeDocumentMoniker": "My-Storm-Windy\\Components\\Pages\\Rain.razor",
-              "ToolTip": "C:\\My Project\\My-Storm-Windy\\My-Storm-Windy\\Components\\Pages\\Rain.razor",
+              "ToolTip": "C:\\Users\\sakda\\Desktop\\New folder\\My-Storm-Windy\\Components\\Pages\\Rain.razor",
               "RelativeToolTip": "My-Storm-Windy\\Components\\Pages\\Rain.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T08:38:35.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T08:38:35.042Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Wind.razor",
-              "DocumentMoniker": "C:\\My Project\\My-Storm-Windy\\My-Storm-Windy\\Components\\Pages\\Wind.razor",
+              "DocumentMoniker": "C:\\Users\\sakda\\Desktop\\New folder\\My-Storm-Windy\\Components\\Pages\\Wind.razor",
               "RelativeDocumentMoniker": "My-Storm-Windy\\Components\\Pages\\Wind.razor",
-              "ToolTip": "C:\\My Project\\My-Storm-Windy\\My-Storm-Windy\\Components\\Pages\\Wind.razor",
+              "ToolTip": "C:\\Users\\sakda\\Desktop\\New folder\\My-Storm-Windy\\Components\\Pages\\Wind.razor",
               "RelativeToolTip": "My-Storm-Windy\\Components\\Pages\\Wind.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T08:33:03.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T08:33:03.178Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Satellite.razor",
-              "DocumentMoniker": "C:\\My Project\\My-Storm-Windy\\My-Storm-Windy\\Components\\Pages\\Satellite.razor",
+              "DocumentMoniker": "C:\\Users\\sakda\\Desktop\\New folder\\My-Storm-Windy\\Components\\Pages\\Satellite.razor",
               "RelativeDocumentMoniker": "My-Storm-Windy\\Components\\Pages\\Satellite.razor",
-              "ToolTip": "C:\\My Project\\My-Storm-Windy\\My-Storm-Windy\\Components\\Pages\\Satellite.razor",
+              "ToolTip": "C:\\Users\\sakda\\Desktop\\New folder\\My-Storm-Windy\\Components\\Pages\\Satellite.razor",
               "RelativeToolTip": "My-Storm-Windy\\Components\\Pages\\Satellite.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T08:30:25.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T08:30:25.284Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Home.razor",
-              "DocumentMoniker": "C:\\My Project\\My-Storm-Windy\\My-Storm-Windy\\Components\\Pages\\Home.razor",
+              "DocumentMoniker": "C:\\Users\\sakda\\Desktop\\New folder\\My-Storm-Windy\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "My-Storm-Windy\\Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\My Project\\My-Storm-Windy\\My-Storm-Windy\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\sakda\\Desktop\\New folder\\My-Storm-Windy\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "My-Storm-Windy\\Components\\Pages\\Home.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T08:04:58.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T08:04:58.744Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\My Project\\My-Storm-Windy\\My-Storm-Windy\\Components\\Layout\\NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\sakda\\Desktop\\New folder\\My-Storm-Windy\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "My-Storm-Windy\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\My Project\\My-Storm-Windy\\My-Storm-Windy\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\sakda\\Desktop\\New folder\\My-Storm-Windy\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "My-Storm-Windy\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwCEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-01T08:17:32.771Z",
               "EditorCaption": ""
@@ -122,14 +125,13 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "app.css",
-              "DocumentMoniker": "C:\\My Project\\My-Storm-Windy\\My-Storm-Windy\\wwwroot\\app.css",
+              "DocumentMoniker": "C:\\Users\\sakda\\Desktop\\New folder\\My-Storm-Windy\\wwwroot\\app.css",
               "RelativeDocumentMoniker": "My-Storm-Windy\\wwwroot\\app.css",
-              "ToolTip": "C:\\My Project\\My-Storm-Windy\\My-Storm-Windy\\wwwroot\\app.css",
+              "ToolTip": "C:\\Users\\sakda\\Desktop\\New folder\\My-Storm-Windy\\wwwroot\\app.css",
               "RelativeToolTip": "My-Storm-Windy\\wwwroot\\app.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-01T08:15:34.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T08:15:34.899Z"
             }
           ]
         }
